@@ -19,7 +19,8 @@ Tecnología	7 nm
 TDP	15 W
 
 
-Captura:  
+Captura:<img width="641" height="520" alt="image" src="https://github.com/user-attachments/assets/0294dd83-f0da-4433-bd14-e5d56253d795" />
+ 
 (Inserta aquí tu imagen de CPU‑Z cuando la subas al repositorio)
 
 Código
@@ -38,7 +39,8 @@ Arquitectura	Zen 2
 TDP	15 W
 
 
-Captura:
+Captura:<img width="661" height="587" alt="image" src="https://github.com/user-attachments/assets/28293c23-5a56-493d-8177-12d7342f1227" />
+
 
 Código
 
@@ -61,7 +63,8 @@ Single Core	465	480	–3.1%
 Multi Core	2850	2900	–1.7%
 
 
-Captura:
+Captura:<img width="666" height="591" alt="image" src="https://github.com/user-attachments/assets/29be6d0e-c477-410d-b1f3-d2a1f439a1cb" />
+
 
 Código
 
